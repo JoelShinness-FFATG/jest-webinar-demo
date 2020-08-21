@@ -1,0 +1,19 @@
+{
+  "name": "jest-snapshot-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "jest": "^26.4.1",
+    "prettier": "^2.0.5",
+    "ts-jest": "^26.2.0",
+    "typescript": "^3.9.4"
+  }
+}
